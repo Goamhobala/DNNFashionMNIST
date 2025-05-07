@@ -1,0 +1,77 @@
+Training begins! Might take up to 45 epochs. There is early stopping in place
+
+Epoch: 0/100, Train Loss: 0.5132409334182739
+Accuracy on Validation Set: 0.7983, Validation Loss: 0.5604793429374695
+Epoch: 1/100, Train Loss: 0.7204350829124451
+Accuracy on Validation Set: 0.8317, Validation Loss: 0.47249123454093933
+Epoch: 2/100, Train Loss: 0.4965003728866577
+Accuracy on Validation Set: 0.847, Validation Loss: 0.42479953169822693
+Epoch: 3/100, Train Loss: 0.42341142892837524
+Accuracy on Validation Set: 0.8555, Validation Loss: 0.4014459550380707
+Epoch: 4/100, Train Loss: 0.3911389708518982
+Accuracy on Validation Set: 0.8615, Validation Loss: 0.38948240876197815
+Epoch: 5/100, Train Loss: 0.397882342338562
+Accuracy on Validation Set: 0.8671, Validation Loss: 0.3666195869445801
+Epoch: 6/100, Train Loss: 0.5290951132774353
+Accuracy on Validation Set: 0.8702, Validation Loss: 0.3563014268875122
+Epoch: 7/100, Train Loss: 0.2826065123081207
+Accuracy on Validation Set: 0.8786, Validation Loss: 0.34092891216278076
+Epoch: 8/100, Train Loss: 0.3622003495693207
+Accuracy on Validation Set: 0.8769, Validation Loss: 0.33506080508232117
+Epoch: 9/100, Train Loss: 0.49174830317497253
+Accuracy on Validation Set: 0.8811, Validation Loss: 0.3307151198387146
+Epoch: 10/100, Train Loss: 0.15255671739578247
+Accuracy on Validation Set: 0.8825, Validation Loss: 0.3267948031425476
+Epoch: 11/100, Train Loss: 0.22638867795467377
+Accuracy on Validation Set: 0.8841, Validation Loss: 0.3238023519515991
+Epoch: 12/100, Train Loss: 0.3986298441886902
+Accuracy on Validation Set: 0.8865, Validation Loss: 0.31787997484207153
+Epoch: 13/100, Train Loss: 0.2825492322444916
+Accuracy on Validation Set: 0.8863, Validation Loss: 0.31604164838790894
+Epoch: 14/100, Train Loss: 0.3819328546524048
+Accuracy on Validation Set: 0.8866, Validation Loss: 0.3125772774219513
+Epoch: 15/100, Train Loss: 0.7255135774612427
+Accuracy on Validation Set: 0.8894, Validation Loss: 0.3030603528022766
+Epoch: 16/100, Train Loss: 0.4375542104244232
+Accuracy on Validation Set: 0.8899, Validation Loss: 0.3020612895488739
+Epoch: 17/100, Train Loss: 0.30215775966644287
+Accuracy on Validation Set: 0.8953, Validation Loss: 0.29291343688964844
+Epoch: 18/100, Train Loss: 0.23315367102622986
+Accuracy on Validation Set: 0.8954, Validation Loss: 0.2902536690235138
+Epoch: 19/100, Train Loss: 0.490676611661911
+Accuracy on Validation Set: 0.8931, Validation Loss: 0.29346591234207153
+Epoch: 20/100, Train Loss: 0.28552576899528503
+Accuracy on Validation Set: 0.8968, Validation Loss: 0.2891625463962555
+Epoch: 21/100, Train Loss: 0.2784614861011505
+Accuracy on Validation Set: 0.8947, Validation Loss: 0.2881128191947937
+Epoch: 22/100, Train Loss: 0.28734490275382996
+Accuracy on Validation Set: 0.8964, Validation Loss: 0.28662535548210144
+Epoch: 23/100, Train Loss: 0.16963893175125122
+Accuracy on Validation Set: 0.8967, Validation Loss: 0.28468406200408936
+Epoch: 24/100, Train Loss: 0.31739991903305054
+Accuracy on Validation Set: 0.8958, Validation Loss: 0.28717830777168274
+Epoch: 25/100, Train Loss: 0.28320178389549255
+Accuracy on Validation Set: 0.8944, Validation Loss: 0.284916490316391
+Epoch: 26/100, Train Loss: 0.4135686159133911
+Accuracy on Validation Set: 0.9011, Validation Loss: 0.27809223532676697
+Epoch: 27/100, Train Loss: 0.10331346094608307
+Accuracy on Validation Set: 0.8966, Validation Loss: 0.2863300144672394
+Epoch: 28/100, Train Loss: 0.5539388656616211
+Accuracy on Validation Set: 0.8982, Validation Loss: 0.28002238273620605
+Epoch: 29/100, Train Loss: 0.2859276831150055
+Accuracy on Validation Set: 0.8995, Validation Loss: 0.27641382813453674
+Epoch: 30/100, Train Loss: 0.4558960497379303
+Accuracy on Validation Set: 0.9022, Validation Loss: 0.2776506841182709
+Epoch: 31/100, Train Loss: 0.03814414143562317
+Accuracy on Validation Set: 0.902, Validation Loss: 0.27825433015823364
+Epoch: 32/100, Train Loss: 0.012672819197177887
+Accuracy on Validation Set: 0.9008, Validation Loss: 0.2801722288131714
+Early stopping at epoch:  33
+Test Set Accuracy: 0.8913
+Training Done!
+Please enter a filepath: 
+> ./data/fashion-jpegs/bag.jpg
+Classifier:  Bag
+Please enter a filepath: 
+> exit
+Exiting...
